@@ -1,5 +1,5 @@
 ![bixi](https://upload.wikimedia.org/wikipedia/commons/5/53/Bixi_logo.svg)
-# BIXI Montreal - Data Preprocessing, Visualization and Analysis
+# BIXI Montreal - Visualization and Analysis
 
 This project includes:
 - a first notebook detailing a series of exploratory data analysis of the data describing the use of  BIXI Montreal bike sharing system.
