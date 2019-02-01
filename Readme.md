@@ -2,10 +2,10 @@
 # BIXI Montreal - Visualization and Analysis
 
 This project includes:
-- a first notebook detailing a series of exploratory data analysis of the data describing the use of  BIXI Montreal bike sharing system.
+- a first notebook detailing a series of exploratory data analysis describing the use of  BIXI Montreal bike sharing system.
 - a second notebook where venues around end stations have been used as features to cluster stations using k-means classifier. 
 
-The goals of this project includes:
+The goals of this project include:
 * Visualizing the bike sharing data 
 * Finding some interesting observations and insights behind the data/ bike use trends to provide recommendations.
 
